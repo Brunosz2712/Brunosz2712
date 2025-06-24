@@ -29,3 +29,4 @@
 </div>
 
 ![Snake animation](https://raw.githubusercontent.com/Brunosz2712/Brunosz2712/output/github-contribution-grid-snake.svg)
+
