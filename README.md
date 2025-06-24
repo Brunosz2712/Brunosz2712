@@ -28,7 +28,8 @@
   <a href ="https://www.linkedin.com/in/bruno-souza-79a354208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style-for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/Brunosz2712/Brunosz2712/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Brunosz2712/Brunosz2712/output/dist/github-contribution-grid-snake-dark.svg)
+
 
 
 
